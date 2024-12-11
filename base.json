@@ -1,0 +1,42 @@
+[
+    {
+        "value": "Draw",
+        "odd": 3.5,
+        "betAmount": 10,
+        "potentialWinnings": 35,
+        "homeTeam": "Everton",
+        "awayTeam": "Wolves",
+        "fixtureId": 1208156,
+        "active": true
+    },
+    {
+        "value": "Draw",
+        "odd": 6,
+        "betAmount": 100,
+        "potentialWinnings": 600,
+        "homeTeam": "Southampton",
+        "awayTeam": "Chelsea",
+        "fixtureId": 1208162,
+        "active": true
+    },
+    {
+        "value": "Home",
+        "odd": 6,
+        "betAmount": 100,
+        "potentialWinnings": 600,
+        "homeTeam": "Leicester",
+        "awayTeam": "West Ham",
+        "fixtureId": 1208159,
+        "active": true
+    },
+    {
+        "value": "Draw",
+        "odd": 8,
+        "betAmount": 1000,
+        "potentialWinnings": 8000,
+        "homeTeam": "Ipswich",
+        "awayTeam": "Crystal Palace",
+        "fixtureId": 1208158,
+        "active": true
+    }
+]
